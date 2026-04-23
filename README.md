@@ -25,7 +25,7 @@ Project Title: ESG Scores and Stock Market Preformance Analysis
 3. Run the Python script
 * Figures will be automatically saved to the folder, and a summary report will print to the console.
 # 6.Limitations & Next Steps
-1. Small sample and short time window
-2. No industry or firm-size controls
-3. Static ESG scores only
-* Next steps: expand data, add industry controls, use dynamic ESG data
+1. This research adopts a small-scale course sample and a short two-year observation period, so the results are not universally representative.
+2. No additional control variables such as industry and firm size are included.
+3. The ESG indicator is static and cannot reflect dynamic annual changes.
+* Next steps: expand sample range, extend time period and add multi-dimensional control variables.
