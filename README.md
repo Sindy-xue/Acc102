@@ -1,5 +1,5 @@
 # ACC102 individual assignment
-Project Title: ESG Scores and Stock Market Preformance Analysis
+Project Title: ESG Scores and Stock Market Performance Analysis
 # 1.Problem & User
 * This project examines whether corporate ESG performance correlates with stock returns and volatility, to identify risk and return patterns across different sustainability tiers. 
 * The analysis is designed to support hypothetical investors or financial analysts who wish to understand how ESG scores relate to real-world stock performance.
