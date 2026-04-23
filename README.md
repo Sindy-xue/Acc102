@@ -2,7 +2,7 @@
 Project Title: ESG Scores and Stock Market Performance Analysis
 # 1.Problem & User
 * This project examines whether corporate ESG performance correlates with stock returns and volatility, to identify risk and return patterns across different sustainability tiers. 
-* The analysis is designed to support hypothetical investors or financial analysts who wish to understand how ESG scores relate to real-world stock performance.
+* The analysis is designed to support investors or financial analysts who wish to understand how ESG scores relate to real-world stock performance.
 # 2.Data
 1. ESG Data: Local CSV file (esg_return_sample.csv), accessed April 2026. Key fields: permno, esg_score, volatility.
 2. Return Data: Monthly stock returns from WRDS CRSP database (Jan 2023–Dec 2024), accessed April 22, 2026. Key fields: permno, date, ret.
